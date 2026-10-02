@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hightowre
-- 👀 I’m interested in smashing gash and smoking hash
+- 👀 I’m interested in automation apps and APIs
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on a fat bowl
-- 📫 How to reach me: I find YOU
+- 💞️ I’m looking to collaborate
 
 <!---
 Hightowre/Hightowre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
